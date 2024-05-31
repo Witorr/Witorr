@@ -61,8 +61,6 @@
   </a>
 </div>
 
-## Animação da Cobrinha
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Witorr/Witorr/main/dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Witorr/Witorr/main/dist/github-snake.svg">
