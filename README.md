@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋! Pode me chamar de Witor</h1>
-<h3 align="center">Sou um entusiasta de Tecnologia e "Software mason".</h3>
+<h3 align="center">Entusiasta de Tecnologia e Pedreiro de Software nas horas vagas.</h3>
 
 <p align="center">
   Profissional focado em <b>Transformação Digital</b> e <b>Automação de Processos (RPA)</b> para eficiência operacional. Com forte atuação em <b>Analytics & Data Science</b>, desenvolvo soluções corporativas utilizando <i>Python, SQL, Power BI e Power Apps</i> para otimizar fluxos e dar suporte estratégico a negócios.
