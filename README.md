@@ -84,7 +84,7 @@ Aqui estão um grupo das principais tecnologias que utilizo no meu dia a dia:
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <h1 align="center"> Git Stats Editado e retirado, devido o fato do funcionamento estar comprometido. </h1>
+  <h3 align="center"> Git Stats Editado e retirado, devido o fato do funcionamento estar comprometido. </h3>
 </div>
 
 <br>
