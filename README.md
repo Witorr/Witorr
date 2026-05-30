@@ -79,13 +79,6 @@ Aqui estão um grupo das principais tecnologias que utilizo no meu dia a dia:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" title="Kaggle" />
 </div>
 
-<br>
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <h3 align="center"> Git Stats Editado e retirado, devido o fato do funcionamento estar comprometido. </h3>
-</div>
 
 <br>
 
