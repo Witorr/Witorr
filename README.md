@@ -27,11 +27,11 @@
 
 ## Stack
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <th align="center">Linguagens</th>
-    <th align="center">Frameworks & Bibliotecas</th>
-    <th align="center">Dados & Analytics</th>
+    <th align="center" width="33%">Linguagens</th>
+    <th align="center" width="34%">Frameworks & Bibliotecas</th>
+    <th align="center" width="33%">Dados & Analytics</th>
   </tr>
   <tr>
     <td align="center" width="33%">
@@ -59,9 +59,9 @@
     </td>
   </tr>
   <tr>
-    <th align="center">DevOps & Cloud</th>
-    <th align="center">Automação</th>
-    <th align="center">Ferramentas</th>
+    <th align="center" width="33%">DevOps & Cloud</th>
+    <th align="center" width="34%">Automação</th>
+    <th align="center" width="33%">Ferramentas</th>
   </tr>
   <tr>
     <td align="center" width="33%">
