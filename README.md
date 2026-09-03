@@ -1,119 +1,96 @@
-<h1 align="center">Olá 👋! Pode me chamar de Witor</h1>
-<h3 align="center">Entusiasta de Tecnologia e Pedreiro de Software nas horas vagas.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=32&amp;duration=2800&amp;pause=1400&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=70&amp;lines=Ol%C3%A1%2C+eu+sou+Witor." alt="Animação de digitação: E aí, eu sou Witor.">
+</div>
 
 <p align="center">
-  Profissional focado em <b>Transformação Digital</b> e <b>Automação de Processos (RPA)</b> para eficiência operacional. Com forte atuação em <b>Analytics & Data Science</b>, desenvolvo soluções corporativas utilizando <i>Python, SQL, Power BI e Power Apps</i> para otimizar fluxos e dar suporte estratégico a negócios.
+  Transformação Digital &nbsp;·&nbsp; Automação de Processos &nbsp;·&nbsp; Analytics & Data Science
 </p>
 
-<br>
+<p align="center">
+  Desenvolvo soluções corporativas orientadas a dados para simplificar processos, aumentar a eficiência operacional<br>
+  e transformar informação em decisões.
+</p>
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBjMTM3cW1jeGdtdjg1ZnBodjdrc2pobjdseWFyZ3J0bDhibTgxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="gif animado" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-witor-485ab2203"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jwitortech@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:jw1629@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
+  <a href="https://www.hackerrank.com/Witorr"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://instagram.com/jwit0r"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Witorr&style=flat-square&color=0A66C2&label=VISITAS" alt="Visualizações do perfil">
+</p>
 
-## 🛠️ Habilidades e Tecnologias
+---
 
-Aqui estão um grupo das principais tecnologias que utilizo no meu dia a dia:
+## Stack
 
-### 💻 Linguagens
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" title="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
-</div>
+<table>
+  <tr>
+    <th align="center">Linguagens</th>
+    <th align="center">Frameworks & Bibliotecas</th>
+    <th align="center">Dados & Analytics</th>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" title="Python">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" title="TypeScript">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" title="JavaScript">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="34" alt="Dart" title="Dart">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" title="HTML5">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" title="CSS3">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" title="Next.js">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" title="React">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" title="Node.js">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="34" alt="Flutter" title="Flutter">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="34" alt="Flask" title="Flask">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" title="MySQL">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" title="PostgreSQL">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="34" alt="SQL Server" title="SQL Server">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="34" alt="Firebase" title="Firebase">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="34" alt="Pandas" title="Pandas">
+      <br><sub>Power BI · Power Apps</sub>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">DevOps & Cloud</th>
+    <th align="center">Automação</th>
+    <th align="center">Ferramentas</th>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" title="Docker">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" title="Linux">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="34" alt="Azure" title="Azure">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" title="Git">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="GitHub" title="GitHub">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="34" alt="Selenium" title="Selenium">&nbsp;
+      <sub>Power Automate · Power Apps · RPA · Low-code</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="Figma" title="Figma">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="34" alt="Anaconda" title="Anaconda">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="34" alt="Kaggle" title="Kaggle">
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Bancos de Dados
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" title="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" title="SQL Server" />
-</div>
+---
 
-### 🚀 Frameworks & Bibliotecas
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" title="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" title="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" title="Pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" title="Selenium" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" title="Flask" />
-</div>
-
-### 🔧 Ferramentas
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" title="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" title="Azure" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" title="Anaconda" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" title="Kaggle" />
-</div>
-
-
-<br>
+## Contribuições
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Witorr/Witorr/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Witorr/Witorr/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Witorr/Witorr/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Witorr/Witorr/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Witorr/Witorr/output/github-snake.svg">
+    <img width="100%" alt="Animação das contribuições de Witor no GitHub" src="https://raw.githubusercontent.com/Witorr/Witorr/output/github-snake.svg">
   </picture>
-</div>
-
-<br>
-
-## 📫 Contato & Redes
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/joão-witor-485ab2203" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:jwitortech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="mailto:jw1629@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
-  </a>
-  <a href="https://www.hackerrank.com/Witorr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
-  </a>
-  <a href="https://instagram.com/jwit0r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Witorr&style=flat-square&color=blue" alt="Profile View Counter" />
 </div>
